@@ -57,6 +57,7 @@
 ## 🔒 Security Notes
 
 *   **App PIN:** The default PIN configuration (if applicable) should be changed upon first deployment.
+*   **App PIN:** 095615
 *   **Kiosk Mode:** For true Kiosk mode in a commercial environment, it is recommended to set this app as a *Device Owner* using Android Enterprise provisions so the user cannot easily bypass the screen pinning.
 
 ---
